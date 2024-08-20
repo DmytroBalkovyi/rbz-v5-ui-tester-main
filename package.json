@@ -1,0 +1,19 @@
+{
+  "name": "rbz-v5-ui-tester",
+  "version": "1.0.0",
+  "main": "NewPageLocators.js",
+  "scripts": {
+    "example": "npx playwright test tests/example.spec.js --config playwright.config.js --project=chromium"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.45.3",
+    "@types/node": "^22.1.0"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}

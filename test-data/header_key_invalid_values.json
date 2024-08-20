@@ -1,0 +1,70 @@
+[
+    {
+        "key": "2_words",
+        "value": "header test"
+    },
+    {
+        "key": "spec_char_+",
+        "value": "test+"
+    },
+    {
+        "key": "spec_char_!",
+        "value": "test!"
+    },
+    {
+        "key": "spec_char_@",
+        "value": "test@"
+    },
+    {
+        "key": "spec_char_#",
+        "value": "test#"
+    },
+    {
+        "key": "spec_char_$",
+        "value": "test$"
+    },
+    {
+        "key": "spec_char_%",
+        "value": "test%"
+    },
+    {
+        "key": "spec_char_^",
+        "value": "test^"
+    },
+    {
+        "key": "spec_char_&",
+        "value": "test&"
+    },
+    {
+        "key": "spec_char_*",
+        "value": "test*"
+    },
+    {
+        "key": "spec_char_(",
+        "value": "test("
+    },
+    {
+        "key": "spec_char_)",
+        "value": "test)"
+    },
+    {
+        "key": "spec_char_=",
+        "value": "test="
+    },
+    {
+        "key": "spec_char_<",
+        "value": "test<"
+    },
+    {
+        "key": "spec_char_>",
+        "value": "test>"
+    },
+    {
+        "key": "spec_char_?",
+        "value": "test?"
+    },
+    {
+        "key": "spec_char_.",
+        "value": "test."
+    }
+]

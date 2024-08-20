@@ -1,0 +1,18 @@
+[
+    {
+        "key": "create_success",
+        "value": "New Proxy Template was created."
+    },
+    {
+        "key": "create_failure",
+        "value": "Request does not match schema"
+    },
+    {
+        "key": "update_success",
+        "value": "Changes to the Proxy Template were saved."
+    },
+    {
+        "key": "update_failure",
+        "value": "Request does not match schema"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "key": "under_limit",
+        "value": "0"
+    },
+    {
+        "key": "out_of_limit",
+        "value": "1025"
+    },
+    {
+        "key": "text",
+        "value": "test"
+    },
+    {
+        "key": "decimal",
+        "value": "1.2"
+    },
+    {
+        "key": "negative",
+        "value": "-3"
+    },
+    {
+        "key": "empty",
+        "value": ""
+    }
+]

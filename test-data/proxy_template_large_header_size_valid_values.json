@@ -1,0 +1,14 @@
+[
+    {
+        "key": "bottom_limit",
+        "value": "1"
+    },
+    {
+        "key": "upper_limit",
+        "value": "1024"
+    },
+    {
+        "key": "default",
+        "value": "32"
+    }
+]

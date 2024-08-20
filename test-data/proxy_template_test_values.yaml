@@ -1,0 +1,20 @@
+large_header_size_valid_values:
+ - key: bottom_limit
+   value: "1"
+ - key: upper_limit
+   value: "1024"
+ - key: default
+   value: "32"
+large_header_size_invalid_values:
+ - key: under_limit
+   value: "0"
+ - key: out_of_limit
+   value: "1025"
+ - key: text
+   value: "test"
+ - key: decimal
+   value: "1.2"
+ - key: negative
+   value: "-2"
+ - key: empty
+   value: ""
